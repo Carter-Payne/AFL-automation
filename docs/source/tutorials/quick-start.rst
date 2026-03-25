@@ -1,7 +1,7 @@
 ====================
 Quick Start Guide
 ====================
-*some change*
+
 This quick start guide will help you get up and running with AFL-automation quickly.
 
 Creating Your First Driver
